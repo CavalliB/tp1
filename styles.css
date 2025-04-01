@@ -1,0 +1,19 @@
+.box{
+    background-color: aqua;
+    padding: 40px;
+    width: 40px;
+    margin: 10px;
+    display: inline-block;
+    display: flex;
+    
+}
+.box:hover{
+    background-color: blue;
+}
+.container{
+    background-color: greenyellow;
+    display: flex;    
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20x;
+}
